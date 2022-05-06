@@ -1,0 +1,17 @@
+= httpqv
+
+image::https://pkg.go.dev/badge/github.com/kechako/httpqv.svg[link="https://pkg.go.dev/github.com/kechako/httpqv",alt="Go Reference"]
+
+Package httpqv provides parser for Quality values of HTTP header.
+
+== Install
+
+
+[source, console]
+----
+go get github.com/kechako/httpqv
+----
+
+== License
+
+MIT - See link:LICENSE[LICENSE] file
